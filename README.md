@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JustinWChada
-- 👀 I’m interested in Coding, mostly pho, Javascript and advanced web design 
+- 👀 I’m interested in Coding, mostly php, Javascript and advanced web design 
 - 🌱 I’m currently learning STC HS
 - 💞️ I’m looking to collaborate on Web design 
 - 📫 How to reach me ...
