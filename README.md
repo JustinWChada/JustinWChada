@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JustinWChada
-- 👀 I’m interested in Coding, mostly php, Javascript and advanced web design 
-- 🌱 I’m currently learning STC HS
-- 💞️ I’m looking to collaborate on Web design 
-- 📫 How to reach me ...
+- 👀 I’m interested in Coding, mostly python, and full stack zeb development 
+- 🌱 I’m currently learning at IKGPTU
+- 💞️ I’m looking to collaborate on a Web design project
+- 📫 How to reach me: LinkedIn - Justin W Chada 
 
 <!---
 JustinWChada/JustinWChada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
